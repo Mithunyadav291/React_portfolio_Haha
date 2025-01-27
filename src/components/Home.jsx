@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from 'react';
-import pdf from '../pdf/Resume.pdf';
+import pdf from '../pdf/resume.pdf';
 // import hero from './Data/hero.json';
 import hero from "../../public/assets/Images/hero/mithun.jpeg";
 import { FaDownload } from 'react-icons/fa';
